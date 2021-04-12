@@ -1,4 +1,4 @@
-# peers - local environment...in the browser
+# peers repo tracks a basic skypeers website.
 
-## This repo tracks a basic website for skypeers, implemented with Firebase and Stackblitz
+## Developed/tested via Firebase in a local environment (in browser), deployed via Stackblitz
 Application URL:  https://firebase-gtk-web-start-qkpdn6.stackblitz.io
