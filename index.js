@@ -25,15 +25,14 @@ var guestbookListener = null;
 async function main() {
 
   // Add Firebase project configuration object here
- var firebaseConfig = {
-    apiKey: "AIzaSyCXsc6kf4bkZbHKpPmh0o9PWAtzR4vtwHk",
-    authDomain: "fir-web-codelab-50cf5.firebaseapp.com",
-    databaseURL: "https://fir-web-codelab-50cf5.firebaseio.com",
-    projectId: "fir-web-codelab-50cf5",
-    storageBucket: "fir-web-codelab-50cf5.appspot.com",
-    messagingSenderId: "157423452209",
-    appId: "1:157423452209:web:a41b6ee279c94023af1510"
-  };
+ const firebaseConfig = {
+  apiKey: "AIzaSyBviRV_Mkpn1ciP9AJbjqqgcYtq79HMLLA",
+  authDomain: "skypeers-f76cc.firebaseapp.com",
+  projectId: "skypeers-f76cc",
+  storageBucket: "skypeers-f76cc.appspot.com",
+  messagingSenderId: "267350994322",
+  appId: "1:267350994322:web:8cb3f3c26f6b948055254b"
+};
 
   // Make sure Firebase is initilized
   try {
