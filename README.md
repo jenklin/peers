@@ -9,15 +9,10 @@ Tracks a basic skypeers website, inc. user registration for Peers Meetup
 <h2 align="center"><a  href="https://skypeers.cloudpeers.net">Demo</a></h2>
 #### Video Demo:  <URL HERE>
 
-
 **xx**
 
 <p align="center"><img src="https://www.pexels.com/photo/person-standing-under-rock-arch-5326958/" width="80%"></p>
 xxx
-
-As Maya Angelou said:
-> My mission in life is not merely to survive, but to thrive; and to do so with
-> some passion, some compassion, some humor, and some style.
 
 ## How to use:
 Online IDE:  https://stackblitz.com/edit/js-l9hwfs
@@ -31,3 +26,7 @@ Online IDE:  https://stackblitz.com/edit/js-l9hwfs
 ## Future scope, improvements
 - Expanded RSVP, Registration for Meetup
 - Add subscription API's for real-time data streams
+
+Maya Angelou:
+> My mission in life is not merely to survive, but to thrive; and to do so with
+> some passion, some compassion, some humor, and some style.
