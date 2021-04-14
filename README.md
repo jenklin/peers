@@ -13,7 +13,6 @@ Tracks a basic skypeers website, inc. user registration for Peers Meetup
 
 **xx**
 
-<p align="center"><img src="https://www.pexels.com/photo/person-standing-under-rock-arch-5326958/" width="80%"></p>
 xxx
 
 ## How to use:
@@ -28,6 +27,9 @@ Online IDE:  https://stackblitz.com/edit/js-l9hwfs
 ## Future scope, improvements
 - Expanded RSVP, Registration for Meetup
 - Add subscription API's for real-time data streams
+
+
+<p align="center"><img src="https://www.pexels.com/photo/person-standing-under-rock-arch-5326958/" width="80%"></p>
 
 Maya Angelou:
 > My mission in life is not merely to survive, but to thrive; and to do so with
