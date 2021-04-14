@@ -1,7 +1,6 @@
 <h1 align="center">Peers</h1>
 <h2 align="center">
-peers repo tracks a basic skypeers website
-Registrationfor Peers Meetup
+Tracks a basic skypeers website, inc. user registration for Peers Meetup
 </h2> Application URL:  https://skypeers.firebaseapp.com/?49761
 
 <p align="center"> Web/mobile application based on Flask, HTML/CSS/JS and serverless backend (Firebase) + cloud IDE (Stackblitz)
