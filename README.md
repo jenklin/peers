@@ -1,5 +1,5 @@
-# Peers
-## Basic skypeers online presence, inc. user registration for Peers Meetup
+
+## skypeers online presence, inc. user registration for Peers Meetup
 
 ## Web/mobile application based on Flask, HTML/CSS/JS and serverless backend (Firebase) + cloud IDE (Stackblitz)
 - user mobile/web app:
