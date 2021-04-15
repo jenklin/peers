@@ -1,7 +1,7 @@
-#Peers
-##Basic skypeers online presence, inc. user registration for Peers Meetup
+# Peers
+## Basic skypeers online presence, inc. user registration for Peers Meetup
 
-##Web/mobile application based on Flask, HTML/CSS/JS and serverless backend (Firebase) + cloud IDE (Stackblitz)
+## Web/mobile application based on Flask, HTML/CSS/JS and serverless backend (Firebase) + cloud IDE (Stackblitz)
 - user mobile/web app:
   - online web/mobile presence for peers website (index, objectives and 2021 projects, resources, about me)
   - registration for local meetups
@@ -10,7 +10,7 @@
 
 #### Video Demo:  <https://www.youtube.com/watch?x>
 **redirect https://skypeers.cloudpeers.net**
-####Application URL:  https://skypeers.firebaseapp.com/?49761
+#### Application URL:  https://skypeers.firebaseapp.com/?49761
 
 
 ## How to use:
@@ -24,6 +24,6 @@ https://stackblitz.com/edit/js-l9hwfs
 - firebase/GCP for serverless backend and Hosting/CDN
 
 ### Future scope, improvements
-- Expanded RSVP, Registration for Meetup
-- Add subscription API's for real-time data streams
+- Expanded Registrations for Forums
+- Subscription API's for real-time streaming data
 
