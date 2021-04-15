@@ -25,7 +25,7 @@ Online IDE:  https://stackblitz.com/edit/js-l9hwfs
 - stackblitz  
 - firebase/GCP
 
-## Future scope, improvements
+### Future scope, improvements
 - Expanded RSVP, Registration for Meetup
 - Add subscription API's for real-time data streams
 
