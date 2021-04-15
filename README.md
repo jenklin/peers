@@ -1,12 +1,12 @@
 
-## skypeers online presence, inc. user registration for Peers Meetup
+# skypeers online presence for creative collaborators
 
 ## Web/mobile application based on Flask, HTML/CSS/JS and serverless backend (Firebase) + cloud IDE (Stackblitz)
-- user mobile/web app:
-  - online web/mobile presence for peers website (index, objectives and 2021 projects, resources, about me)
-  - registration for local meetups
-- developer environment:
-  - serverless backend, online IDE, GitHub repo)
+  - user mobile/web app:
+    - online web/mobile presence for peers website (index, objectives and 2021 projects, resources, about me)
+    - registration for local Peers meetups
+  - developer environment:
+    - serverless backend, online IDE, GitHub repo)
 
 #### Video Demo:  <https://www.youtube.com/watch?x>
 **redirect https://skypeers.cloudpeers.net**
