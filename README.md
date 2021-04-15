@@ -9,7 +9,7 @@ Tracks a basic skypeers website, inc. user registration for Peers Meetup
 </p>
 
 <h2 align="center"><a  href="https://skypeers.cloudpeers.net">Demo</a></h2>
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://www.youtube.com/watch?x>
 
 **xx**
 
@@ -18,16 +18,16 @@ xxx
 ## How to use:
 Online IDE:  https://stackblitz.com/edit/js-l9hwfs
 
-## Requirements
+## Setup 
+- chrome Version 89.0.4389.116 (w/local dev environment)
 - python 3
 - flask
-- stackblitz online IDE
+- stackblitz  
 - firebase/GCP
 
 ## Future scope, improvements
 - Expanded RSVP, Registration for Meetup
 - Add subscription API's for real-time data streams
-
 
 <p align="center"><img src="https://www.pexels.com/photo/person-standing-under-rock-arch-5326958/" width="80%"></p>
 
