@@ -31,6 +31,3 @@ Online IDE:  https://stackblitz.com/edit/js-l9hwfs
 
 <p align="center"><img src="https://www.pexels.com/photo/person-standing-under-rock-arch-5326958/" width="80%"></p>
 
-Maya Angelou:
-> My mission in life is not merely to survive, but to thrive; and to do so with
-> some passion, some compassion, some humor, and some style.
