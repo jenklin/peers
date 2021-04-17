@@ -1,35 +1,32 @@
 
 # skypeers online presence for creative collaborators
 
-## Web/mobile application based on Flask, HTML/CSS/JS site
+#### Description:  Web/mobile application to grow engagement across dynamic online communities
   - user mobile/web app:
     - online web/mobile presence for peers website (index, objectives and 2021 projects, resources, about me)
     - registration for local Peers meetups
   - developer environment:
     - serverless backend for dynamic data
-    - online IDE, GitHub repo
+    - Stackblitz IDE handles installing dependencies, compiling, bundling and hot reloading
+        - <a href="https://stackblitz.com/edit/js-l9hwfs">Online IDE</a>
+    - GitHub repo
 
-#### Videos 
+#### Mobile/Web Application URL:  https://skypeers.firebaseapp.com/?49761
+
+#### Video Demo:
 <ul>
       <li>
-        <a class="nav-link" href="https://youtu.be/LAySNzlU3ZM">Skypeers Demo</a>
+        <a href="https://youtu.be/LAySNzlU3ZM">Skypeers Demo</a>
       </li>
 </ul>
 
-#### Application URL:  https://skypeers.firebaseapp.com/?49761
-
-
-## How to use:
-Online IDE handles installing dependencies, compiling, bundling and hot reloading
-https://stackblitz.com/edit/js-l9hwfs
-
-## Setup 
-- chrome Version 89.0.4389.116 (w/local dev environment)
-- python 3, flask, cs50 
-- stackblitz for online cloud IDE
-- firebase/GCP for serverless backend and Hosting/CDN
+## Setup
+- Chrome Version 89.0.4389.116 (w/local dev environment)
+- Python 3, flask (HTML/CSS/JavaScript), cs50 IDE
+- Stackblitz for online cloud IDE
+- Firebase/GCP for serverless backend and Hosting/CDN
+- Google Domains for custom domain redirect
 
 ### Future scope, improvements
-- Expanded Registrations for Forums
-- Subscription API's for real-time streaming data
-
+- Expanded user registration for domain-specific forums
+- Real-time streaming data for localized data (via subscription APIs)
